@@ -2,7 +2,7 @@ import json
 import os
 import requests
 
-TARGET_UID = "6395178860"  
+TARGET_UID = "8016027169"  
 DATA_FILE = "posts.json"
 
 HEADERS = {
